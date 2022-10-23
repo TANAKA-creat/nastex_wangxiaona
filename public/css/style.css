@@ -1,48 +1,48 @@
 h1 {
     font-size: 20px;
     margin-bottom: 10px;
-    border-bottom: 2px solid rgb(9, 168, 236);
+    border-bottom: 2px solid rgb(99, 8, 245);
     display: flex;
     align-items: center;
-    color:rgb(248, 7, 236)
+    color:rgb(249, 13, 186);
 }
 
 h1 > a {
     font-size: 16px;
     font-weight: normal;
     margin-left: auto;
-    color:rgb(231, 6, 219)
+    color:rgb(249, 13, 186);
 }
 
 h1 > span {
-    color:rgb(231, 6, 219)
+    color:rgb(249, 13, 186);
 }
 
 a {
     text-decoration: none;
-    color:rgb(231, 6, 219)
+    color:rgb(249, 13, 186);
 }
 
 h2 {
     font-size: 16px;
     margin-top: 40px;
-    color:rgb(241, 61, 229);
+    color:rgb(249, 13, 186);
 }
 
 li > a {
-    color:rgb(239, 96, 192);
+    color:rgb(249, 13, 186);
 }
 
 p {
     line-height: 1.6;
     font-weight: bold;
-    color:rgb(238, 114, 230);
+    color:rgb(249, 13, 186);
 }
 
 li {
     line-height: 1.6;
     margin-bottom: 10px;
-    color:rgb(244, 89, 233);
+    color:rgb(249, 13, 186);
     font-weight: bold;
 }
 
@@ -53,10 +53,10 @@ li {
 
 .back-link {
     font-size: 14px;
-    color:rgb(244, 9, 115);
+    color:rgb(249, 13, 186);
 }
 .back-link > a{
-    color:rgb(250, 116, 241);
+    color:rgb(249, 13, 186);
 }
 
 input,textarea {
@@ -93,7 +93,7 @@ button {
     background: transparent;
     font-size: 16px;
     font-weight: normal;
-    color: rgb(208, 32, 79);
+    color: blue;
     cursor: pointer;
     vertical-align: 1px;
 }
@@ -122,24 +122,25 @@ button {
 
 .advice1 {
     font-size: 15px;
-    color:rgb(241, 99, 231);
+    color:rgb(249, 13, 186);
 }
 
 .advice2 {
     font-size: 12px;
     padding-left: 10px;
-    color:rgb(241, 99, 231);
+    color:rgb(249, 13, 186);
 }
 
 .comment-font {
     font-size: 12px;
+    color:blue;
 }
 
 body {
-    background-image: url(sunrise-over-hallstatt-picjumbo-com.jpg);
+    background-image: url(floral-garland.jpg);
     background-size: 100%;
 }
 
 label {
-    color:rgb(245, 140, 238);
+    color:rgb(249, 13, 186);
 }
